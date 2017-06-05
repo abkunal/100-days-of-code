@@ -22,7 +22,15 @@ So I started coding, but the thing that troubled me the most was the graph was g
   
 **Thoughts:** Added the flag stripes to the nodes of the graph. First I tried adding css stripes using svg:image but that didn't worked, then I had to switch to combination of div and img to include flag stripes.  
   
-**Link to Work:** [Forced Directed Graph](https://codepen.io/abkunal/full/xrxYvV)  
+**Link to Work:** [Forced Directed Graph](https://codepen.io/abkunal/full/xrxYvV)
+
+### Day 3: June 5, 2017  
+  
+**Today's Progress:** Solved some programming problems.  
+  
+**Thoughts:** Solved some programming problems on codechef.com. Also learned about Open Source.
+  
+**Link to Work:** [Codechef profile](https://www.codechef.com/users/abkunal)  
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
