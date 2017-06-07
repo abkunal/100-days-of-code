@@ -31,6 +31,15 @@ So I started coding, but the thing that troubled me the most was the graph was g
 **Thoughts:** Solved some programming problems on codechef.com. Also learned about Open Source.
   
 **Link to Work:** [Codechef profile](https://www.codechef.com/users/abkunal)  
+  
+### Day 4 - Learned about narrative structure and different biases in Data Visualization.  
+  
+**Thoughts:** Came to know about Author driven and Reader driven aspects of narrative structure and how mistakes in data collection may lead to false information being conveyed.  
+  
+### Day 5 - Started learning how to build maps using d3.js  
+  
+**Thoughts:** The last lesson of Udacity course Data Visualization and D3.js  
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
