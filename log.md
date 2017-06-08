@@ -32,13 +32,21 @@ So I started coding, but the thing that troubled me the most was the graph was g
   
 **Link to Work:** [Codechef profile](https://www.codechef.com/users/abkunal)  
   
-### Day 4 - Learned about narrative structure and different biases in Data Visualization.  
+### Day 4 - June 6, 2017  
   
-**Thoughts:** Came to know about Author driven and Reader driven aspects of narrative structure and how mistakes in data collection may lead to false information being conveyed.  
+**Thoughts:** Learned about narrative structure and different biases in Data Visualization. Came to know about Author driven and Reader driven aspects of narrative structure and how mistakes in data collection may lead to false information being conveyed.  
   
-### Day 5 - Started learning how to build maps using d3.js  
+### Day 5 - June 7, 2017  
   
-**Thoughts:** The last lesson of Udacity course Data Visualization and D3.js  
+**Thoughts:** Started learning how to build maps using d3.js  
+  
+### Day 6 - June 8, 2017
+  
+**Thoughts:** Completed Map Visualization project and Udacity course "Data Visualization and D3.js"
+  
+**Link to Work:** [Map Visualization](https://codepen.io/abkunal/full/dRYwxj)  
+  
+  
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
