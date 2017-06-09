@@ -46,6 +46,11 @@ So I started coding, but the thing that troubled me the most was the graph was g
   
 **Link to Work:** [Map Visualization](https://codepen.io/abkunal/full/dRYwxj)  
   
+### Day 7 - June 9, 2017
+  
+**Thoughts:** Set up my personal blog using WordPress and learned the basics of nodejs from FCC. In setting up my blog the thing that troubled me the most was to set up SSL certificate using Let's encrypt. Godaddy doesn't provide a quick guide to install it and had to spend 2 hours searching how to do so. finally found the site that really served as the best step by step guide to install SSL https://www.sslforfree.com  
+  
+**Link to Work:** [My Blog](https://www.kunalyadav.me)  
   
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
