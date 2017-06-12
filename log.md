@@ -58,6 +58,11 @@ So I started coding, but the thing that troubled me the most was the graph was g
   
 **Link to Work:** [My Blog](https://www.kunalyadav.me) 
   
+### Day 9 - June 10, 2017
+  
+**Thoughts:** Learned more in-depth about nodejs and the basics of MongoDB. Will start working on Back-end projects from tomorrow! Also published an article on my blog about "Modules in Nodejs".  
+  
+**Link to Work:** [My Blog](https://www.kunalyadav.me) 
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
