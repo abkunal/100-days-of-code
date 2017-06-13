@@ -57,13 +57,24 @@ So I started coding, but the thing that troubled me the most was the graph was g
 **Thoughts:** Completed npm, nodejs and expressjs tutorials at freecodecamp.com. Working on writing a blog post about nodejs  
   
 **Link to Work:** [My Blog](https://www.kunalyadav.me) 
+
+### Day 9 - June 11, 2017
   
-### Day 9 - June 10, 2017
+**Thoughts:** Watched some tutorials on nodejs. Also wrote an article on nodejs  
+  
+**Link to Work:** [My Blog](https://www.kunalyadav.me) 
+
+### Day 10 - June 12, 2017
   
 **Thoughts:** Learned more in-depth about nodejs and the basics of MongoDB. Will start working on Back-end projects from tomorrow! Also published an article on my blog about "Modules in Nodejs".  
   
 **Link to Work:** [My Blog](https://www.kunalyadav.me) 
-
+  
+### Day 11 - June 13, 2017  
+  
+**Thoughts:** Revised some graph algorithms and learned about huffman coding. Also wrote an article on MongoDB on my blog.  
+  
+**Link to Work:** [How to get started with MongoDB](https://www.kunalyadav.me)
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
