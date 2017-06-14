@@ -74,7 +74,12 @@ So I started coding, but the thing that troubled me the most was the graph was g
   
 **Thoughts:** Revised some graph algorithms and learned about huffman coding. Also wrote an article on MongoDB on my blog.  
   
-**Link to Work:** [How to get started with MongoDB](https://www.kunalyadav.me)
+**Link to Work:** [How to get started with MongoDB](https://www.kunalyadav.me)  
+  
+
+### Day 12 - June 14, 2017  
+  
+**Thoughts:** Completed the Timestamp Microservice Project.  
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
