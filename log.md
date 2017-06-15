@@ -80,6 +80,12 @@ So I started coding, but the thing that troubled me the most was the graph was g
 ### Day 12 - June 14, 2017  
   
 **Thoughts:** Completed the Timestamp Microservice Project.  
+  
+## Day 13 - June 15, 2017  
+  
+**Thoughts:** Build the Request Header Parser Microservice, URL Shortener Microservice and File Metadata Microservice.  
+  
+**Link to Work:** [Github](https://github.com/abkunal?tab=repositories)  
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
