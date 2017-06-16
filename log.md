@@ -85,7 +85,13 @@ So I started coding, but the thing that troubled me the most was the graph was g
   
 **Thoughts:** Build the Request Header Parser Microservice, URL Shortener Microservice and File Metadata Microservice.  
   
-**Link to Work:** [Github](https://github.com/abkunal?tab=repositories)  
+**Link to Work:** [Github](https://github.com/abkunal?tab=repositories) 
+  
+## Day 14 - June 16, 2017  
+  
+**Thoughts:** Build the Image Search Abstraction Layer from API Development projects! 
+  
+**Link to Work:** [Glitch Link](https://kunal-image-search-abstraction.glitch.me/) 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
