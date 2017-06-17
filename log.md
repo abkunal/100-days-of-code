@@ -92,6 +92,12 @@ So I started coding, but the thing that troubled me the most was the graph was g
 **Thoughts:** Build the Image Search Abstraction Layer from API Development projects! 
   
 **Link to Work:** [Glitch Link](https://kunal-image-search-abstraction.glitch.me/) 
+
+## Day 15 - June 17, 2017  
+  
+**Thoughts:** Implemented MaxHeap, Dijkstra's Algorithm and huffman coding in python. Also solved the activity selection problem. 
+  
+**Link to Work:** [Github Link](https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/python) 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
