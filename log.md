@@ -97,7 +97,13 @@ So I started coding, but the thing that troubled me the most was the graph was g
   
 **Thoughts:** Implemented MaxHeap, Dijkstra's Algorithm and huffman coding in python. Also solved the activity selection problem. 
   
-**Link to Work:** [Github Link](https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/python) 
+**Link to Work:** [Github Link](https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/python)  
+  
+## Day 16 - June 18, 2017  
+  
+**Today's Progress:** Learned to build a login app using nodejs.  
+  
+**Thoughts:** Watched a youtube video and build the app alongside. But I have learn a lot more about express, mongoose, mongoDB and passport. So will be doing that tomorrow!   
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
