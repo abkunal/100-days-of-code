@@ -108,6 +108,14 @@ So I started coding, but the thing that troubled me the most was the graph was g
 ## Day 17 - June 19, 2017
 
 **Today's Progress:** Learned about Handlebars today
+  
+I missed 20th June.  
+  
+## Day 18 - June 21, 2017  
+  
+**Today's Progress:** Learned about jekyll  
+  
+**Thoughts:** Jekyll seemed to be perfect for a personal blog. So I set it up on my local computer and started learning it.  
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
