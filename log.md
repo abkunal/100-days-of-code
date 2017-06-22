@@ -116,6 +116,12 @@ I missed 20th June.
 **Today's Progress:** Learned about jekyll  
   
 **Thoughts:** Jekyll seemed to be perfect for a personal blog. So I set it up on my local computer and started learning it.  
+
+## Day 19 - June 22, 2017  
+  
+**Today's Progress:** Worked on Voting App project  
+  
+**Thoughts:** Implemented authetication in the voting app. Poll handling is left.  
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
