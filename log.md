@@ -122,6 +122,12 @@ I missed 20th June.
 **Today's Progress:** Worked on Voting App project  
   
 **Thoughts:** Implemented authetication in the voting app. Poll handling is left.  
+
+## Day 20 - June 23, 2017  
+  
+**Today's Progress:** Worked on the Voting App project.
+  
+**Thoughts:** creation of poll is implemented, Only voting and deleting are left.  
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
