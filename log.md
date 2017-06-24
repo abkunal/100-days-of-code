@@ -127,7 +127,13 @@ I missed 20th June.
   
 **Today's Progress:** Worked on the Voting App project.
   
-**Thoughts:** creation of poll is implemented, Only voting and deleting are left.  
+**Thoughts:** creation of poll is implemented, Only voting and deleting are left.
+  
+## Day 21 - June 24, 2017
+  
+**Today's Progress:** Voting App project is almost completed
+  
+**Thoughts:** My first approach of handling data in database failed as I tried to implement the "Delete my poll" functionality. So had to change the whole Schema for user and polling information. The Lesson I learned is that before implementing database schemas, first draw a representation of your database on a paper or whiteboard and see if you can smoothly perform all the necessary database operations that you need.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
