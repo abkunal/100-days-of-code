@@ -141,7 +141,7 @@ I missed 20th June.
   
 **Thoughts:** Voting app project is finally completed. I am looking to add authetication using twitter API. I will do that tomorrow.
   
-**Link to work:** (Let's Vote)[https://backend-projects-abkunal1.cs50.io/]
+**Link to work:** [Let's Vote](https://backend-projects-abkunal1.cs50.io/)
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
