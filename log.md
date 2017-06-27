@@ -143,13 +143,19 @@ I missed 20th June.
   
 **Link to work:** [Let's Vote](https://backend-projects-abkunal1.cs50.io/)
   
-## Day 23 - June 26, 2017
+## Day 23 - June 26, 2017  
   
 **Today's Progress:** Learned ES6 and regular expression.  
   
 **Thoughts:** learned ES6 syntax and tricks. Also practiced regular expressions in JavaScript.  
   
 **Link to work:** [FreeCodeCamp](http://beta.freecodecamp.com/en/abkunal)
+  
+## Day 24 - June 27, 2017
+  
+**Today's Progress:** Learned about the OAuth protocol and Yelp API.  
+  
+**Thoughts:** Preparation for next project. Also learned about debugging.  
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
