@@ -155,7 +155,13 @@ I missed 20th June.
   
 **Today's Progress:** Learned about the OAuth protocol and Yelp API.  
   
-**Thoughts:** Preparation for next project. Also learned about debugging.  
+**Thoughts:** Preparation for next project. Also learned about debugging. 
+
+## Day 25 - June 28, 2017
+  
+**Today's Progress:** Started Working on the Nightlife Coordination app.
+  
+**Thoughts:** Trying to figure out how to access the body of the get request from Yelp.  
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
