@@ -162,6 +162,12 @@ I missed 20th June.
 **Today's Progress:** Started Working on the Nightlife Coordination app.
   
 **Thoughts:** Trying to figure out how to access the body of the get request from Yelp.  
+  
+## Day 26 - June 29, 2017  
+  
+**Today's Progress:** Continued working on the nightlife coordination app.  
+  
+**Thoughts:** Spend 2-3 hours figuring out how to synchronize database calls with the server response. Finally I decided to try another approach and it seems to be on the right track.
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
