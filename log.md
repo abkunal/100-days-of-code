@@ -174,6 +174,12 @@ I missed 20th June.
 **Today's Progress:** Third day of working on the nightlife coordination app.  
   
 **Thoughts:** To solve the problem which I was facing yesterday I learned how to use ajax with nodejs. This method pretty much solved the issue very simply!  
+  
+## Day 28 - July 1, 2017  
+  
+**Today's Progress:** Completed the nightlife coordination app.  
+  
+**Thoughts:** Had a long time figuring out some of the things, but I learned a lot of things like drawing diagrams on how different parts of your website interacts helps a lot.  
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
