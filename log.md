@@ -180,6 +180,14 @@ I missed 20th June.
 **Today's Progress:** Completed the nightlife coordination app.  
   
 **Thoughts:** Had a long time figuring out some of the things, but I learned a lot of things like drawing diagrams on how different parts of your website interacts helps a lot.  
+  
+## Day 29 - July 2, 2017  
+  
+**Today's Progress:** Fixed some on the Nightlife Coordination App.  
+  
+**Thoughts:** Fixed some bugs and depoyed the nightlife coordination on Heroku. Also wrote an article on medium.  
+  
+**Link to Work:** [Nightlife Coordination App](http://kunal-nightlife-app.herokuapp.com/) [Why to begin with the end in mind](https://medium.com/@kunalyadav/begin-with-the-end-in-mind-ba0a57ccfbbc)  
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
