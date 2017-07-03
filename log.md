@@ -188,6 +188,12 @@ I missed 20th June.
 **Thoughts:** Fixed some bugs and depoyed the nightlife coordination on Heroku. Also wrote an article on medium.  
   
 **Link to Work:** [Nightlife Coordination App](http://kunal-nightlife-app.herokuapp.com/) [Why to begin with the end in mind](https://medium.com/@kunalyadav/begin-with-the-end-in-mind-ba0a57ccfbbc)  
+  
+## Day 30 - July 3, 2017  
+  
+**Today's Progress:** Started working on Charting the Stock Market App.  
+  
+**Thoughts:** Learned about sockets and socket.io and also wrote an article about priorities [Why Put First Things First](https://medium.com/@kunalyadav/why-put-first-things-first-1ef8aa841df2)
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
