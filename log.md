@@ -194,6 +194,12 @@ I missed 20th June.
 **Today's Progress:** Started working on Charting the Stock Market App.  
   
 **Thoughts:** Learned about sockets and socket.io and also wrote an article about priorities [Why Put First Things First](https://medium.com/@kunalyadav/why-put-first-things-first-1ef8aa841df2)
+  
+## Day 31 - July 4, 2017  
+  
+**Today's Progress:** Worked on the Real time stock market app.  
+  
+**Thoughts:** Almost completed. Just a few bugs to fix. [Real Time Stock Market](https://github.com/abkunal/Watch-Stock-Market)
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
