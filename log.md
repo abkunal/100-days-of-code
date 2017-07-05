@@ -199,7 +199,13 @@ I missed 20th June.
   
 **Today's Progress:** Worked on the Real time stock market app.  
   
-**Thoughts:** Almost completed. Just a few bugs to fix. [Real Time Stock Market](https://github.com/abkunal/Watch-Stock-Market)
+**Thoughts:** Almost completed. Just a few bugs to fix. [Real Time Stock Market](https://github.com/abkunal/Watch-Stock-Market)  
+  
+## Day 32 - July 4, 2017  
+  
+**Today's Progress:** Stock Market App Completed!  
+  
+**Thoughts:** Also wrote an article on [How to become successful with people](https://medium.com/@kunalyadav/how-to-become-successful-with-people-aad11f58522)  
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
