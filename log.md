@@ -210,7 +210,12 @@ I missed 20th June.
 ## Day 33 - July 6, 2017  
   
 **Today's Progress:** Started working on a simple chat app using sockets.  
-
+  
+## Day 34 - July 7, 2017  
+  
+**Today's Progress:** Worked on the chat app using socket.io  
+  
+**Link to work:** It's live, but I will make some improvements! https://kunal-chat-app.herokuapp.com   
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
