@@ -215,7 +215,11 @@ I missed 20th June.
   
 **Today's Progress:** Worked on the chat app using socket.io  
   
-**Link to work:** It's live, but I will make some improvements! https://kunal-chat-app.herokuapp.com   
+**Link to work:** It's live, but I will make some improvements! https://kunal-chat-app.herokuapp.com  
+  
+## Day 35 - July 8, 2017  
+  
+**Today's Progress:** Brushed up bit manipulation.  
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
