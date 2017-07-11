@@ -219,7 +219,21 @@ I missed 20th June.
   
 ## Day 35 - July 8, 2017  
   
-**Today's Progress:** Brushed up bit manipulation.  
+**Today's Progress:** Brushed up bit manipulation. 
+  
+## Day 36 - July 9, 2017  
+  
+**Today's Progress:** learned a new algorithm, solved a programming problem, started working on a new project (Book trading) and wrote an article on Synergy!  
+  
+## Day 37 - July 10, 2017  
+  
+**Today's Progress:** Worked on the Book Trading project!  
+  
+**Link to Work:** [Book Trading App](https://github.com/abkunal/Book-Trading-Application)  
+  
+## Day 38 - July 11, 2017  
+  
+**Today's Progress:** Revised Sorting Algorithms and Tree Algorithms.  
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
