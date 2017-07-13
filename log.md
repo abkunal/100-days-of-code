@@ -234,6 +234,10 @@ I missed 20th June.
 ## Day 38 - July 11, 2017  
   
 **Today's Progress:** Revised Sorting Algorithms and Tree Algorithms.  
+  
+## Day 39 - July 12, 2017  
+  
+**Today's Progress:** Revised Graph algorithms and hashing. Also Solved some problems on leetcode.  
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
