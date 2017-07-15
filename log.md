@@ -250,3 +250,7 @@ I missed 20th June.
 **Today's Progress:** Revised some python libraries and DynamicProgramming algorithms.  
   
 **Thoughts:** Also solved some coding problems from leetcode and hackerrank.  
+  
+## Day 42 - July 15, 2017  
+  
+**Today's Progress:** Solved some programming problems and updated GitHub repos of projects.  
