@@ -254,3 +254,17 @@ I missed 20th June.
 ## Day 42 - July 15, 2017  
   
 **Today's Progress:** Solved some programming problems and updated GitHub repos of projects.  
+  
+## Day 43 - July 16, 2017  
+  
+**Today's Progress:** Implemented book add functionality in book trading app and solved some programming problems
+  
+## Day 44 - July 17, 2017  
+  
+**Today's Progress:** Implemented trade request functionality in book trading app.  
+  
+## Day 45- July 18, 2017  
+  
+**Today's Progress:** Finally completed Book Trading App! Also started learning Photoshop.    
+  
+**Link to Work:** [Book Lovers](https://kunal-book-trade.herokuapp.com/)
