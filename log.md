@@ -267,4 +267,12 @@ I missed 20th June.
   
 **Today's Progress:** Finally completed Book Trading App! Also started learning Photoshop.    
   
-**Link to Work:** [Book Lovers](https://kunal-book-trade.herokuapp.com/)
+**Link to Work:** [Book Lovers](https://kunal-book-trade.herokuapp.com/).  
+  
+## Day 46 - July 19, 2017  
+  
+**Today's Progress:** Started working on Pinterest App!  
+  
+**Thoughts:** Created models for database and implemented local authentication in Pinterest App. Also learned more about Photoshop!  
+  
+**Link to Work:** [Pinterest App](https://github.com/abkunal/Pinterest-App)  
