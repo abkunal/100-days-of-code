@@ -276,3 +276,11 @@ I missed 20th June.
 **Thoughts:** Created models for database and implemented local authentication in Pinterest App. Also learned more about Photoshop!  
   
 **Link to Work:** [Pinterest App](https://github.com/abkunal/Pinterest-App)  
+  
+## Day 47 - July 20, 2017  
+  
+**Today's Progress:** Solved a lot of problems on GeeksforGeeks  
+  
+**Thoughts:** Also made tutorial videos for GitHub projects. Will be uploading them soon.  
+  
+**Link to Work:** [GeeksforGeeks](http://auth.geeksforgeeks.org/profile.php?user=abkunal&list=practice) You have to be logged in to see  
