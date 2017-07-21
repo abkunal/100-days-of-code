@@ -284,3 +284,9 @@ I missed 20th June.
 **Thoughts:** Also made tutorial videos for GitHub projects. Will be uploading them soon.  
   
 **Link to Work:** [GeeksforGeeks](http://auth.geeksforgeeks.org/profile.php?user=abkunal&list=practice) You have to be logged in to see  
+  
+## Day 48 - July 21, 2017  
+  
+**Today's Progress:** Solved some problems on leetcode and updated Github projects.  
+  
+**Link to Work:** https://github.com/abkunal/Data-Structures-and-Algorithms  
