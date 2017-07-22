@@ -290,3 +290,9 @@ I missed 20th June.
 **Today's Progress:** Solved some problems on leetcode and updated Github projects.  
   
 **Link to Work:** https://github.com/abkunal/Data-Structures-and-Algorithms  
+  
+## Day 49 - July 22, 2017  
+  
+**Today's Progress:** Worked on the Pinterest App and started learning Go language.  
+  
+**Link to work:** https://github.com/abkunal/Go-lang-learning https://github.com/abkunal/Pinterest-App  
