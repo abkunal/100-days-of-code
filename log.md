@@ -296,3 +296,7 @@ I missed 20th June.
 **Today's Progress:** Worked on the Pinterest App and started learning Go language.  
   
 **Link to work:** https://github.com/abkunal/Go-lang-learning https://github.com/abkunal/Pinterest-App  
+  
+## Day 50 - July 23, 2017  
+  
+**Today's Progress:** Worked on the Pinterest type App and learned about Arrays and slices in Go!  
