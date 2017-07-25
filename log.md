@@ -300,3 +300,14 @@ I missed 20th June.
 ## Day 50 - July 23, 2017  
   
 **Today's Progress:** Worked on the Pinterest type App and learned about Arrays and slices in Go!  
+  
+## Day 51 - July 24, 2017  
+  
+**Today's Progress:** Pinterest type app is almost completed!  
+  
+## Day 52 - July 25, 2017  
+  
+**Today's Progress:** Worked on the Pinterest type app and implemented image deletion.  
+  
+**Link to work:** https://github.com/abkunal/Pinterest-App  
+  
