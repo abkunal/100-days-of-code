@@ -311,3 +311,28 @@ I missed 20th June.
   
 **Link to work:** https://github.com/abkunal/Pinterest-App  
   
+## Day 53 - July 26, 2017  
+  
+**Today's Progress:** Worked on the Pinterest App.  
+  
+## Day 54 - July 27, 2017  
+  
+**Today's Progress:** Pinterest App finally completed.  
+  
+**Link to work:** https://kunal-clickista.herokuapp.com  
+  
+## Day 55 - July 28, 2017  
+  
+**Today's Progress:** Solved some programming problems, watched a tutorial of Go and uploaded Pinterest type app - Clickista!   
+  
+## Day 56 - July 29, 2017  
+  
+**Today's Progress:** Took part in TCS Codevita and solved 4 problems!  
+  
+## Day 57 - July 30, 2017  
+  
+**Today's Progress:** Solved some problems on leetcode and finally started learning Java!  
+  
+## Day 58 - July 29, 2017  
+  
+**Today's Progress:** Wrote a lot of Java programs and solved two programming problems.    
