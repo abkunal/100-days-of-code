@@ -333,6 +333,12 @@ I missed 20th June.
   
 **Today's Progress:** Solved some problems on leetcode and finally started learning Java!  
   
-## Day 58 - July 29, 2017  
+## Day 58 - July 31, 2017  
   
 **Today's Progress:** Wrote a lot of Java programs and solved two programming problems.    
+  
+## Day 59 - August 1, 2017  
+  
+**Today's Progress:** Started revising React and solved some programming problems on leetcode.  
+  
+**Link to Work:** github.com/abkunal/DAta-Structures-and-Algorithms/tree/master/leetcode/easy  
