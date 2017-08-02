@@ -342,3 +342,11 @@ I missed 20th June.
 **Today's Progress:** Started revising React and solved some programming problems on leetcode.  
   
 **Link to Work:** github.com/abkunal/DAta-Structures-and-Algorithms/tree/master/leetcode/easy  
+  
+## Day 60 - August 2, 2017  
+  
+**Today's Progress:** Solved 5 problems on leetcode today and getting the hand on the Reactjs again! 
+  
+**Thoughts:** It feels Awesome to miss college lectures that don't add value to you and solve programming problems that does add value.
+  
+**Link to Work:** https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/easy  
