@@ -350,3 +350,9 @@ I missed 20th June.
 **Thoughts:** It feels Awesome to miss college lectures that don't add value to you and solve programming problems that does add value.
   
 **Link to Work:** https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/easy  
+  
+## Day 61 - August 3, 2017  
+  
+**Today's Progress:** Solved a problem on leetcode and some other problems using C. Also completed React revision. Will start working on a new project from tomorrow.  
+  
+**Link to Work:** https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/easy  
