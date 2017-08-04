@@ -356,3 +356,9 @@ I missed 20th June.
 **Today's Progress:** Solved a problem on leetcode and some other problems using C. Also completed React revision. Will start working on a new project from tomorrow.  
   
 **Link to Work:** https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/easy  
+  
+## Day 62 - August 4, 2017  
+  
+**Today's Progress:** Went through some #programming problems and solved them.  
+  
+**Thoughts:** Learned some cools tricks in #python!  
