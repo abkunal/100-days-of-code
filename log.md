@@ -362,3 +362,11 @@ I missed 20th June.
 **Today's Progress:** Went through some #programming problems and solved them.  
   
 **Thoughts:** Learned some cools tricks in #python!  
+  
+## Day 63 - August 5, 2017  
+  
+**Today's Progress:** Watched an amazing python talk and solved some programming problems on leetcode.  
+  
+**Thoughts:** Also went through a whole 40 mins tutorial on mySQL.  
+  
+**Link to Work:** https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/easy  
