@@ -370,3 +370,9 @@ I missed 20th June.
 **Thoughts:** Also went through a whole 40 mins tutorial on mySQL.  
   
 **Link to Work:** https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/easy  
+  
+## Day 64 - August 6, 2017  
+  
+**Today's Progress:** Solved a lot of programming problems today and learned the basics of lisp.  
+  
+**Link to Work:** https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/easy  
