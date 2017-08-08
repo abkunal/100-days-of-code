@@ -376,3 +376,15 @@ I missed 20th June.
 **Today's Progress:** Solved a lot of programming problems today and learned the basics of lisp.  
   
 **Link to Work:** https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/easy  
+  
+## Day 65 - August 7, 2017  
+  
+**Today's Progress:** Solved a lot of programming problems on leetcode and geeksforgeeks!  
+  
+**Link to Work:** https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/easy  
+  
+## Day 66 - August 8, 2017  
+  
+**Today's Progress:** Solved some programming problems and learned how to add two numbers without + or - operator!  
+  
+**Link to Work:** https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/easy    
