@@ -388,3 +388,9 @@ I missed 20th June.
 **Today's Progress:** Solved some programming problems and learned how to add two numbers without + or - operator!  
   
 **Link to Work:** https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/easy    
+  
+## Day 67 - August 9, 2017  
+  
+**Today's Progress:** Learned two new algorithms today and started working on a project using Reactjs!  
+  
+**Link to Work:** https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/easy  
