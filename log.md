@@ -394,3 +394,7 @@ I missed 20th June.
 **Today's Progress:** Learned two new algorithms today and started working on a project using Reactjs!  
   
 **Link to Work:** https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/easy  
+  
+## Day 68 - August 10, 2017  
+  
+**Today's Progress:** Solved some problems on geeksforgeeks  
