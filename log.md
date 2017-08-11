@@ -398,3 +398,9 @@ I missed 20th June.
 ## Day 68 - August 10, 2017  
   
 **Today's Progress:** Solved some problems on geeksforgeeks  
+  
+## Day 69 - August 11, 2017  
+  
+**Today's Progress:** Took part in #Codevita Round 2!  
+  
+**Thoughts:** Was able to solve only 3 out of 8 problems, a lot of improvement is required!  
