@@ -404,3 +404,23 @@ I missed 20th June.
 **Today's Progress:** Took part in #Codevita Round 2!  
   
 **Thoughts:** Was able to solve only 3 out of 8 problems, a lot of improvement is required!  
+  
+## Day 70 - August 12, 2017  
+  
+**Today's Progress:** Solved a number of programming problems on leetcode. #NewLearningPlan  
+  
+## Day 71 - August 13, 2017  
+  
+**Today's Progress:** Took part in NPTEL NPAT and nailed it. Also solved some programming problems on leetcode!  
+  
+**Link to Work:** https://github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/easy  
+  
+## Day 72 - August 14, 2017  
+  
+**Today's Progress:** Learned about a lot of features of Photoshop. Solved a programming problem.  
+  
+## Day 73 - August 15, 2017  
+  
+**Today's Progress:** Learned about Smart Objects, Raster Objects, shape layers and some other features of #Photoshop.  
+  
+**Thoughts:** Also solved a programming problem on leetcode!    
