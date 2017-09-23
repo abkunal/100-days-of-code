@@ -424,3 +424,66 @@ I missed 20th June.
 **Today's Progress:** Learned about Smart Objects, Raster Objects, shape layers and some other features of #Photoshop.  
   
 **Thoughts:** Also solved a programming problem on leetcode!    
+  
+## Day 74 - August 16, 2017  
+  
+** Today's Progress:**  Learned about Artboards in Photoshop and solved a programming problem.  
+  
+## Day 75 - August 17, 2017  
+  
+**Today's Progress:** Solved some programming problems on leetcode and learned about layer mask, cropping, eye drop and some other features of Photoshop!  
+  
+## Day 76 - August 18, 2017  
+  
+**Today's Progress:** Solved 8 pogramming problems today!  
+
+## Day 77 - August 19, 2017  
+  
+**Today's Progress:** Solved 8 programming Problems! Some were easy and some were challenging. Learned a lot from them!  
+  
+## Day 78 - August 20, 2017  
+  
+**Today's Progress:** Solved a number of programming problems!  
+  
+## Day 79 - August 21, 2017  
+  
+**Today's Progress:** Made my first navigation design!  
+  
+## Day 80 - August 22, 2017  
+  
+**Today's Progress:** Solved a number of programming problems on leetcode.  
+  
+## Day 82 - August 24, 2017  
+  
+**Today's Progress:** Another day of solving programming problems on leetcode!  
+   
+## Day 83 - August 25, 2017  
+  
+**Today's Progress:** Revised some algorithms.  
+  
+## Day 84 - August 26, 2017  
+  
+**Today's Progress:** solved some #programming problems. Solved a total of 100+ problems on leetcode till now  
+  
+## Days 85-91   
+  
+**Progress:** College Exams but able to squeeze in some time for programming problems and Photoshop!  
+  
+## Day 92 - September 3, 2017  
+  
+**Today's Progress:** Not a day of much coding, but definitely full of design!  
+  
+## Day 93 - September 4, 2017  
+  
+**Today's Progress:** Solved some programming problems! Feeling a bit tired now...  
+  
+## Day 94 - September 5, 2017  
+  
+**Today's Progress:** Solved some programming problems while traveling!  
+  
+## Days 95-100  
+  
+**Progress:** Learned a lot about web designing, made some simple designs myself. Also did a lot of programming problems.  
+
+This 100-day journey has been really amazing, completed 5-10 projects, solved 120+ problems on leetcode, participated in coding competitions and learned web designing!
+Looking forward to starting the next round of the 100DaysOfCode!  
