@@ -1,5 +1,14 @@
-# 100 Days Of Code - Log
-
+# 100 Days Of Code, Round 2 - Log
+  
+### Day 1: October 7, 2017  
+  
+**Today's Progress:** Solved two programming problems on leetcode and read about Async in javascript.  
+  
+**Link to Work:** [Leetcode problems](github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/medium)    
+    
+---------------------------------------------------------------------------------------------------------------------------
+# 100 Days Of Code - Log  
+  
 ### Day 0: June 2, 2017
 
 **Today's Progress:** Solved a simple problem from June Long Challenge on codechef.com
