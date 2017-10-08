@@ -4,7 +4,13 @@
   
 **Today's Progress:** Solved two programming problems on leetcode and read about Async in javascript.  
   
-**Link to Work:** [Leetcode problems](github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/medium)    
+**Link to Work:** [Leetcode problems](github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/medium) 
+  
+### Day 2: October 8, 2017  
+  
+**Today's Progress:** Solved three programming problems on leetcode and read about Callbacks and Callback Hell in javascript.  
+  
+**Link to Work:** [Leetcode problems](github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/medium)   
     
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
