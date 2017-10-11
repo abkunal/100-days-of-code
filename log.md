@@ -10,7 +10,25 @@
   
 **Today's Progress:** Solved three programming problems on leetcode and read about Callbacks and Callback Hell in javascript.  
   
-**Link to Work:** [Leetcode problems](github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/medium)   
+**Link to Work:** [Leetcode problems](github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/medium)  
+  
+### Day 3: October 9, 2017  
+  
+**Today's Progress:** Learned about Promises in JavaScript and solved 6 programming problems!  
+  
+**Link to Work:** [Leetcode problems](github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/medium)  
+  
+### Day 4: October 10, 2017  
+  
+**Today's Progress:** Solved 3 programming problems and learned the basics of pdf.js.  
+  
+**Link to Work:** [Leetcode problems](github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/medium)  
+  
+### Day 5: October 11, 2017  
+  
+**Today's Progress:** Solved 2 programming problems and learned about dynamic programming and enrolled in Stanford Online's Database course.  
+  
+**Link to Work:** [Leetcode problems](github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode)  
     
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
