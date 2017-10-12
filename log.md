@@ -29,6 +29,12 @@
 **Today's Progress:** Solved 2 programming problems and learned about dynamic programming and enrolled in Stanford Online's Database course.  
   
 **Link to Work:** [Leetcode problems](github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode)  
+  
+### Day 6: October 12, 2017  
+  
+**Today's Progress:** Solved 2 programming problems and completed the Stanford's Relational Algebra mini-course.  
+  
+**Link to Work:** [Leetcode problems](github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/medium). [Stanford Statement of Accomplishment](https://prod-cert-bucket.s3.amazonaws.com/downloads/a0e08df5dbbb484687578c276e775c83/Statement.pdf)   
     
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
