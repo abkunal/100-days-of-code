@@ -35,7 +35,11 @@
 **Today's Progress:** Solved 2 programming problems and completed the Stanford's Relational Algebra mini-course.  
   
 **Link to Work:** [Leetcode problems](github.com/abkunal/Data-Structures-and-Algorithms/tree/master/leetcode/medium). [Stanford Statement of Accomplishment](https://prod-cert-bucket.s3.amazonaws.com/downloads/a0e08df5dbbb484687578c276e775c83/Statement.pdf)   
-    
+  
+### Day 7: October 13, 2017  
+  
+**Today's Progress:** Learned about how ES6 generators work and practiced some SQL queries.  
+  
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
   
