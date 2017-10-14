@@ -40,6 +40,12 @@
   
 **Today's Progress:** Learned about how ES6 generators work and practiced some SQL queries.  
   
+### Day 8: October 14, 2017  
+  
+**Today's Progress:** Practiced some SQL join and Aggregation queries and learned about some ES6 constructs. Read the React documentation to brush up my React skills and made a remake of Markdown Previewer.  
+  
+**Link to Work:** [Markdown Previewer](https://codepen.io/abkunal/pen/PJdrXP)  
+  
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
   
