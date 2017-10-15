@@ -46,6 +46,12 @@
   
 **Link to Work:** [Markdown Previewer](https://codepen.io/abkunal/pen/PJdrXP)  
   
+### Day 9: October 15, 2017  
+  
+**Today's Progress:** Attended the PyDelhi meetup today and learned about Kivy, a cross-platform python framework.  
+  
+**Link to Work:** [Attended the PyDelhi Meetup](https://www.kunalyadav.me/attended-pydelhi-meetup-100daysofcode-day-9/)   
+  
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
   
