@@ -50,7 +50,19 @@
   
 **Today's Progress:** Attended the PyDelhi meetup today and learned about Kivy, a cross-platform python framework.  
   
-**Link to Work:** [Attended the PyDelhi Meetup](https://www.kunalyadav.me/attended-pydelhi-meetup-100daysofcode-day-9/)   
+**Link to Work:** [Attended the PyDelhi Meetup](https://www.kunalyadav.me/attended-pydelhi-meetup-100daysofcode-day-9/)
+  
+### Day 10: October 16, 2017  
+  
+**Today's Progress:** Worked on a web app involving Google maps.  
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-10/)  
+  
+### Day 11: October 17, 2017  
+  
+**Today's Progress:** Learned about NULL values and modification commands in sql and also completed an sql exercise. Solved 5 programming problems!  
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-11/)    
   
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
