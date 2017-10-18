@@ -62,7 +62,13 @@
   
 **Today's Progress:** Learned about NULL values and modification commands in sql and also completed an sql exercise. Solved 5 programming problems!  
   
-**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-11/)    
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-11/)  
+  
+### Day 12: October 18, 2017  
+  
+**Today's Progress:** Completed two mini-courses of the Stanford's Database course and learned to query XML using XPath and XQuery.  
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-12/)   
   
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
