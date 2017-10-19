@@ -70,6 +70,12 @@
   
 **Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-12/)   
   
+### Day 13: October 19, 2017  
+  
+**Today's Progress:** Completed the XPath and XQuery mini-course. Started learning relational Design!  
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-13/)  
+  
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
   
