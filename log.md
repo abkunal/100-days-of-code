@@ -76,6 +76,12 @@
   
 **Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-13/)  
   
+### Day 14: October 20, 2017  
+  
+**Today's Progress:** Made the Wikipedia Viewer in React.  
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-14/)  
+  
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
   
