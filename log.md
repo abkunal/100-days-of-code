@@ -82,6 +82,12 @@
   
 **Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-14/)  
   
+### Day 15: October 21, 2017  
+  
+**Today's Progress:** Worked on a project and made a simple static site using React Router.  
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-15/)    
+  
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
   
