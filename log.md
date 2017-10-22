@@ -86,8 +86,13 @@
   
 **Today's Progress:** Worked on a project and made a simple static site using React Router.  
   
-**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-15/)    
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-15/)   
   
+### Day 16: October 22, 2017  
+  
+**Today's Progress:** Worked on a project based on MEAN stack and Google Maps. Got to learn a lot!  
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-16/)   
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
   
