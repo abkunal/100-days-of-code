@@ -93,6 +93,12 @@
 **Today's Progress:** Worked on a project based on MEAN stack and Google Maps. Got to learn a lot!  
   
 **Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-16/)   
+  
+### Day 17: October 23, 2017  
+  
+**Today's Progress:** Implemented authentication on the project on which I have been working these days. And added some customizations on the map.  
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-17/)   
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
   
