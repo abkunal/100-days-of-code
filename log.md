@@ -99,6 +99,18 @@
 **Today's Progress:** Implemented authentication on the project on which I have been working these days. And added some customizations on the map.  
   
 **Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-17/)   
+  
+### Day 18: October 24, 2017  
+  
+**Today's Progress:** Completed the Relational Design mini-course. Learned a lot about Functional Dependencies, multi-valued dependencies and how to convert a relation into BCNF and 4th Normal Form.  
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-18/)  
+  
+### Day 19: October 25, 2017  
+  
+**Today's Progress:** Almost completed the Indexes and Transaction mini-course. Only Quizzes are left. Also solved a number of programming problems on paper but haven’t submitted them online yet.  
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-19/)
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
   
