@@ -110,7 +110,19 @@
   
 **Today's Progress:** Almost completed the Indexes and Transaction mini-course. Only Quizzes are left. Also solved a number of programming problems on paper but haven’t submitted them online yet.  
   
-**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-19/)
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-19/)   
+  
+### Day 20: October 26, 2017  
+  
+**Today's Progress:** Worked on a project and solved 3 programming problems.  
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-20/)  
+  
+### Day 11: October 27, 2017  
+  
+**Today's Progress:** Completed the Index and Triggers course along with the Relational Design Quiz!  
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-21/)
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
   
