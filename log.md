@@ -118,11 +118,17 @@
   
 **Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-20/)  
   
-### Day 11: October 27, 2017  
+### Day 21: October 27, 2017  
   
 **Today's Progress:** Completed the Index and Triggers course along with the Relational Design Quiz!  
   
 **Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-21/)
+  
+### Day 22: October 28, 2017  
+  
+**Today's Progress:** Learned about Constraints and Triggers in SQL and about the basics of Java.  
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-22/)
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
   
