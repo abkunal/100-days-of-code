@@ -128,7 +128,13 @@
   
 **Today's Progress:** Learned about Constraints and Triggers in SQL and about the basics of Java.  
   
-**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-22/)
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-22/)  
+  
+### Day 23: October 29, 2017  
+  
+**Today's Progress:** Spent whole day learning Java! Learned about variables, primitives, Objects, Input using Scanner, Math and String Class and ArrayLists.  
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-23/)
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
   
