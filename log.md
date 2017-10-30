@@ -134,7 +134,14 @@
   
 **Today's Progress:** Spent whole day learning Java! Learned about variables, primitives, Objects, Input using Scanner, Math and String Class and ArrayLists.  
   
-**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-23/)
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-23/)  
+
+### Day 24: October 30, 2017  
+  
+**Today's Progress:** Learned about Virtual and Materialized views and solved 3 programming problems.    
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-24/)  
+  
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
   
