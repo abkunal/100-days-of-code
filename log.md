@@ -140,7 +140,13 @@
   
 **Today's Progress:** Learned about Virtual and Materialized views and solved 3 programming problems.    
   
-**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-24/)  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-24/)   
+  
+### Day 25: October 31, 2017  
+  
+**Today's Progress:** Continued learning Java, solved 3 programming problems and completed OLAP mini-course as part of Database course.    
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-25/)  
   
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
