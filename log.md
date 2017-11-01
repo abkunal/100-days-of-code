@@ -148,6 +148,12 @@
   
 **Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-25/)  
   
+### Day 26: November 1, 2017  
+  
+**Today's Progress:** Implemented Stacks and Queues in Java and learned about recursion in SQL.    
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-26/)  
+  
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
   
