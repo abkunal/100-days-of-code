@@ -154,6 +154,13 @@
   
 **Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-26/)  
   
+### Day 27: November 2, 2017  
+  
+**Today's Progress:** Worked on my resume and solved 3 programming problems.    
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-27/)  
+
+
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
   
