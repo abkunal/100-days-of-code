@@ -160,6 +160,12 @@
   
 **Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-27/)  
 
+### Day 28: November 3, 2017  
+  
+**Today's Progress:** Attended a cloud computing workshop and learned about the basics of cloud. Also learned about UML Design in SQL.    
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-28/)  
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 # 100 Days Of Code - Log  
