@@ -165,6 +165,12 @@
 **Today's Progress:** Attended a cloud computing workshop and learned about the basics of cloud. Also learned about UML Design in SQL.    
   
 **Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-28/)  
+  
+### Day 29: November 4, 2017  
+  
+**Today's Progress:** Solved 10 programming problems and practiced java all day long!    
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-29/)  
 
 
 ---------------------------------------------------------------------------------------------------------------------------
