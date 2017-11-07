@@ -171,6 +171,12 @@
 **Today's Progress:** Solved 10 programming problems and practiced java all day long!    
   
 **Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-29/)  
+  
+### Day 30: November 7, 2017  
+  
+**Today's Progress:** Enrolled in a Programming language course. Learned about SML/NJ revised some algorithms.      
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-30/)    
 
 
 ---------------------------------------------------------------------------------------------------------------------------
