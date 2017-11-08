@@ -177,6 +177,12 @@
 **Today's Progress:** Enrolled in a Programming language course. Learned about SML/NJ revised some algorithms.      
   
 **Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-30/)    
+  
+### Day 31: November 8, 2017  
+  
+**Today's Progress:** Learned about Amazon Web Services and researched for a project.      
+  
+**Link to Work:** [Blog Post](https://www.kunalyadav.me/100daysofcode-day-31/)      
 
 
 ---------------------------------------------------------------------------------------------------------------------------
